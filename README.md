@@ -2,7 +2,11 @@
 
 Tensorflow Object Detection in ROS with bebop_autonomy
 
-----------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------
+
+This is a ROS package and should be located in /src folder in bebop workspace that was created during the installation of bebop autonomy.
+
+----------------------------------------------------------------------------------------------------------------------------------
 
 1) install ROS
 
