@@ -3,6 +3,7 @@
 Tensorflow Object Detection in ROS with bebop_autonomy
 
 ***Reference:
+The code is taken from an article titled Adding Object Detection with TensorFlow to a Robotics Project by Phil Hopley under the series of articles called Rodney - A long time coming autonomous robot in Code Project.
 https://www.codeproject.com/Articles/1268309/Adding-Object_Detection-with-TensorFlow-to-a-Robot
 
 ---------------------------------------------------------------------------------------------------------------------------------
