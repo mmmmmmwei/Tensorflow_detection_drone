@@ -1,0 +1,3 @@
+object_detection:
+  confidence_level: 0.60
+  path: '/home/lee_ming_wei/models/research/object_detection'

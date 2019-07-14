@@ -1,0 +1,3 @@
+object_detection:
+  confidence_level: 0.60
+  path: '/home/ubuntu/git/models/research/object_detection'
